@@ -1,0 +1,265 @@
+{
+  "products": [
+    {
+      "name": "Growbox",
+      "price": 9634,
+      "imgUrl": "/bestseller (1).png",
+      "desc": "A versatile and stylish growbox for all your indoor gardening needs.",
+      "discount": 42,
+      "category": "Accessories",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "imgUrl": "/bestseller (2).png",
+      "name": "EcoBag",
+      "category": "Accessories",
+      "discount": 10,
+      "price": 150.5,
+      "desc": "An eco-friendly bag made from recycled materials, perfect for everyday use."
+    },
+    {
+      "id": 3,
+      "imgUrl": "/bestseller (3).png",
+      "name": "SmartWatch",
+      "category": "Electronics",
+      "discount": 5,
+      "price": 299.99,
+      "desc": "A high-tech smartwatch with fitness tracking and smartphone notifications."
+    },
+    {
+      "id": 4,
+      "imgUrl": "/bestseller (4).png",
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "discount": 15,
+      "price": 120,
+      "desc": "Comfortable and durable running shoes designed for both beginners and professionals."
+    },
+    {
+      "id": 5,
+      "imgUrl": "/bestseller (5).png",
+      "name": "Leather Jacket",
+      "category": "Apparel",
+      "discount": 20,
+      "price": 450,
+      "desc": "A premium leather jacket that combines style and warmth for any occasion."
+    },
+    {
+      "id": 6,
+      "imgUrl": "/bestseller (6).png",
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "discount": 8,
+      "price": 89.99,
+      "desc": "Wireless Bluetooth headphones with excellent sound quality and long battery life."
+    },
+    {
+      "id": 7,
+      "imgUrl": "/bestseller (7).png",
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "discount": 0,
+      "price": 25,
+      "desc": "A high-density yoga mat providing comfort and support during your workouts."
+    },
+    {
+      "id": 8,
+      "imgUrl": "/bestseller (8).png",
+      "name": "Office Chair",
+      "category": "Furniture",
+      "discount": 30,
+      "price": 200,
+      "desc": "An ergonomic office chair designed for long hours of comfortable seating."
+    },
+    {
+      "id": 9,
+      "imgUrl": "/bestseller (9).png",
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "discount": 10,
+      "price": 650,
+      "desc": "A high-resolution digital camera with advanced features for professional photography."
+    },
+    {
+      "id": 10,
+      "imgUrl": "/bestseller (10).png",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "discount": 12,
+      "price": 799.99,
+      "desc": "A latest-generation smartphone with cutting-edge technology and sleek design."
+    },
+    {
+      "id": 11,
+      "imgUrl": "/bestseller (11).png",
+      "name": "Backpack",
+      "category": "Accessories",
+      "discount": 5,
+      "price": 45,
+      "desc": "A durable backpack with multiple compartments for all your essentials."
+    },
+    {
+      "id": 12,
+      "imgUrl": "/bestseller (12).png",
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "discount": 20,
+      "price": 60,
+      "desc": "Stylish sunglasses with UV protection to keep your eyes safe and looking cool."
+    },
+    {
+      "id": 13,
+      "imgUrl": "/bestseller (13).png",
+      "name": "T-Shirt",
+      "category": "Apparel",
+      "discount": 10,
+      "price": 25,
+      "desc": "A comfortable and casual t-shirt made from high-quality cotton."
+    },
+    {
+      "id": 14,
+      "imgUrl": "/bestseller (14).png",
+      "name": "Tablet",
+      "category": "Electronics",
+      "discount": 15,
+      "price": 399.99,
+      "desc": "A versatile tablet perfect for both work and play with a high-resolution display."
+    },
+    {
+      "id": 15,
+      "imgUrl": "/bestseller (15).png",
+      "name": "Gaming Console",
+      "category": "Electronics",
+      "discount": 5,
+      "price": 299.99,
+      "desc": "A powerful gaming console with a wide range of popular games and features."
+    },
+    {
+      "id": 17,
+      "imgUrl": "/bestseller (17).png",
+      "name": "Watch",
+      "category": "Accessories",
+      "discount": 10,
+      "price": 120,
+      "desc": "A stylish watch that combines functionality with a classic design."
+    },
+    {
+      "id": 18,
+      "imgUrl": "/bestseller (18).png",
+      "name": "Cookware Set",
+      "category": "Kitchen",
+      "discount": 30,
+      "price": 180,
+      "desc": "A complete set of cookware made from durable materials for everyday cooking."
+    },
+    {
+      "id": 19,
+      "imgUrl": "/bestseller (19).png",
+      "name": "Desk Lamp",
+      "category": "Furniture",
+      "discount": 15,
+      "price": 40,
+      "desc": "A sleek desk lamp with adjustable brightness to suit your workspace needs."
+    }
+  ],
+  "categories": [
+    {
+      "name": "Dress",
+      "imgUrl": "/Mask group.png",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Accessories",
+      "imgUrl": "/Mask group (1).png"
+    },
+    {
+      "id": 3,
+      "name": "Electronics",
+      "imgUrl": "/Mask group (2).png"
+    },
+    {
+      "id": 4,
+      "name": "Footwear",
+      "imgUrl": "/Mask group (3).png"
+    },
+    {
+      "id": 5,
+      "name": "Apparel",
+      "imgUrl": "/Mask group (4).png"
+    },
+    {
+      "id": 6,
+      "name": "Fitness",
+      "imgUrl": "/Mask group (5).png"
+    },
+    {
+      "id": 7,
+      "name": "Furniture",
+      "imgUrl": "/Mask group (6).png"
+    },
+    {
+      "id": 8,
+      "name": "Kitchen",
+      "imgUrl": "/Mask group (7).png"
+    },
+    {
+      "id": 9,
+      "name": "Beauty",
+      "imgUrl": "/Mask group (1).png"
+    },
+    {
+      "name": "Growbox",
+      "imgUrl": "Mask group (1).png ",
+      "id": 10
+    },
+    {
+      "name": "rwerwer",
+      "imgUrl": "Mask group (1).png",
+      "id": 11
+    }
+  ],
+  "carts": [
+    {
+      "id": 3,
+      "products": [
+        {
+          "productId": 2,
+          "quantity": 3
+        },
+        {
+          "productId": 1,
+          "quantity": 2
+        },
+        {
+          "productId": 3,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "products": []
+    }
+  ],
+  "users": [
+    {
+      "email": "cuong@gmail.com",
+      "password": "$2a$10$BG.oWLuz1L1PV2a7DO3eg.nOeDeZ5AJv9NNTBruljBJ6SHbaeZG/e",
+      "id": 1
+    },
+    {
+      "email": "cuong1@gmail.com",
+      "password": "$2a$10$WUJdQZxflrfksPgmNC4N7.Q7VzO1xacMLN.VibcPdkBy8oQtOxBWu",
+      "confirmPassword": "123456",
+      "id": 2
+    },
+    {
+      "email": "garu97123456@gmail.com",
+      "password": "$2a$10$bUTD4rzStj11GS2F15rl9.y306yJRiCfDvgZaT7.3UffG6cQD5jum",
+      "confirmPassword": "123456",
+      "id": 3
+    }
+  ]
+}
